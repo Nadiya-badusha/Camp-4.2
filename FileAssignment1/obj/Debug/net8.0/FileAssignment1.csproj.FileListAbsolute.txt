@@ -1,0 +1,14 @@
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\bin\Debug\net8.0\FileAssignment1.exe
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\bin\Debug\net8.0\FileAssignment1.deps.json
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\bin\Debug\net8.0\FileAssignment1.runtimeconfig.json
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\bin\Debug\net8.0\FileAssignment1.dll
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\bin\Debug\net8.0\FileAssignment1.pdb
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\obj\Debug\net8.0\FileAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\obj\Debug\net8.0\FileAssignment1.AssemblyInfoInputs.cache
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\obj\Debug\net8.0\FileAssignment1.AssemblyInfo.cs
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\obj\Debug\net8.0\FileAssignment1.csproj.CoreCompileInputs.cache
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\obj\Debug\net8.0\FileAssignment1.dll
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\obj\Debug\net8.0\refint\FileAssignment1.dll
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\obj\Debug\net8.0\FileAssignment1.pdb
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\obj\Debug\net8.0\FileAssignment1.genruntimeconfig.cache
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\FileAssignment1\obj\Debug\net8.0\ref\FileAssignment1.dll
