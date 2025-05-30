@@ -1,0 +1,14 @@
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\bin\Debug\net8.0\EventAssignment1.exe
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\bin\Debug\net8.0\EventAssignment1.deps.json
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\bin\Debug\net8.0\EventAssignment1.runtimeconfig.json
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\bin\Debug\net8.0\EventAssignment1.dll
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\bin\Debug\net8.0\EventAssignment1.pdb
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\obj\Debug\net8.0\EventAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\obj\Debug\net8.0\EventAssignment1.AssemblyInfoInputs.cache
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\obj\Debug\net8.0\EventAssignment1.AssemblyInfo.cs
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\obj\Debug\net8.0\EventAssignment1.csproj.CoreCompileInputs.cache
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\obj\Debug\net8.0\EventAssignment1.dll
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\obj\Debug\net8.0\refint\EventAssignment1.dll
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\obj\Debug\net8.0\EventAssignment1.pdb
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\obj\Debug\net8.0\EventAssignment1.genruntimeconfig.cache
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\EventAssignment1\obj\Debug\net8.0\ref\EventAssignment1.dll
