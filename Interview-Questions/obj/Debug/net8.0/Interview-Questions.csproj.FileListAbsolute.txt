@@ -1,0 +1,14 @@
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\bin\Debug\net8.0\Interview-Questions.exe
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\bin\Debug\net8.0\Interview-Questions.deps.json
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\bin\Debug\net8.0\Interview-Questions.runtimeconfig.json
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\bin\Debug\net8.0\Interview-Questions.dll
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\bin\Debug\net8.0\Interview-Questions.pdb
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\obj\Debug\net8.0\Interview-Questions.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\obj\Debug\net8.0\Interview-Questions.AssemblyInfoInputs.cache
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\obj\Debug\net8.0\Interview-Questions.AssemblyInfo.cs
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\obj\Debug\net8.0\Interview-Questions.csproj.CoreCompileInputs.cache
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\obj\Debug\net8.0\Interview-Questions.dll
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\obj\Debug\net8.0\refint\Interview-Questions.dll
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\obj\Debug\net8.0\Interview-Questions.pdb
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\obj\Debug\net8.0\Interview-Questions.genruntimeconfig.cache
+D:\vs 2020\Camp-4.2\ClassDemo-Solution\Interview-Questions\obj\Debug\net8.0\ref\Interview-Questions.dll
